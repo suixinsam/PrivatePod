@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ActivityEnrollment'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Activity Enrollment for App'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ Activity Enrollment module for app to integrate.
   s.ios.deployment_target = '10.0'
   s.swift_version = '4.2.0'
 
-  s.source_files = 'ActivityEnrollment/*'
+  s.source_files = 'ActivityEnrollment/Classes/**/*'
   
   # s.resource_bundles = {
   #   'ActivityEnrollment' => ['ActivityEnrollment/Assets/*.png']
