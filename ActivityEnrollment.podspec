@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 Activity Enrollment module for app to integrate.
                        DESC
 
-  s.homepage         = 'https://github.com/suixinsam/ActivityEnrollment'
+  s.homepage         = 'https://github.com/suixinsam/PrivatePod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sam shi' => 'suixinsuoyu3@126.com' }
-  s.source           = { :git => 'https://github.com/sam shi/ActivityEnrollment.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/suixinsam/PrivatePod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
