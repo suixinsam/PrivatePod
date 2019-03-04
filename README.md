@@ -22,7 +22,7 @@ pod 'ActivityEnrollment'
 
 ## Author
 
-sam shi, sam.shi@activenetwork.com
+sam
 
 ## License
 

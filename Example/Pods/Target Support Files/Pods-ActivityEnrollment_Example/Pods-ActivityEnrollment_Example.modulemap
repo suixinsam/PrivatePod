@@ -1,0 +1,6 @@
+framework module Pods_ActivityEnrollment_Example {
+  umbrella header "Pods-ActivityEnrollment_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

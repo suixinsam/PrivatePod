@@ -1,0 +1,6 @@
+framework module ActivityEnrollment {
+  umbrella header "ActivityEnrollment-umbrella.h"
+
+  export *
+  module * { export * }
+}

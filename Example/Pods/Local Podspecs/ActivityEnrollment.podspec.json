@@ -1,0 +1,22 @@
+{
+  "name": "ActivityEnrollment",
+  "version": "0.1.0",
+  "summary": "A short description of ActivityEnrollment.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sam shi/ActivityEnrollment",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sam shi": "sam.shi@activenetwork.com"
+  },
+  "source": {
+    "git": "https://github.com/sam shi/ActivityEnrollment.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ActivityEnrollment/Classes/**/*"
+}
