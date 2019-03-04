@@ -31,7 +31,7 @@ Activity Enrollment module for app to integrate.
   s.ios.deployment_target = '10.0'
   s.swift_version = '4.2.0'
 
-  s.source_files = 'ActivityEnrollment/Classes/**/*'
+  s.source_files = 'ActivityEnrollment/*'
   
   # s.resource_bundles = {
   #   'ActivityEnrollment' => ['ActivityEnrollment/Assets/*.png']
