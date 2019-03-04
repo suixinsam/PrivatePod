@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ActivityEnrollment'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Activity Enrollment for App'
 
 # This description is used to generate tags and improve search results.
@@ -38,6 +38,6 @@ Activity Enrollment module for app to integrate.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-   s.frameworks = 'UIKit', 'NSFoundation'
+   s.frameworks = 'UIKit', 'Foundation'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
